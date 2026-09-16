@@ -8,6 +8,12 @@
 
 ---
 
+## 網頁預覽 (Live Preview)
+
+![Yu Ya Ting Personal Space & Live Dashboard Preview](./preview.png)
+
+---
+
 ## 專案簡介 (Project Overview)
 
 本專案為 **AIoT-DA 課程之課堂實作作業 DIC-1 (Do In Class 1)**。專案聚焦於**純個人首頁展示與高精度即時儀表板**（Personal Page & Precision Live Time Dashboard），結合現代前端美學設計（Bento Grid、Glassmorphism 玻璃擬態、動態光暈）與響應式排版。
