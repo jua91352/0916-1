@@ -4,6 +4,7 @@
 **作者 (Author)**：Yu Ya Ting  
 **課程名稱 (Course)**：AIoT-DA Course  
 **課堂作業 (Assignment)**：DO IN CLASS 1 (DIC-1)  
+**線上展示 (Live Demo)**：[https://jua91352.github.io/0916-1/](https://jua91352.github.io/0916-1/)
 
 ---
 
@@ -71,8 +72,10 @@ d:/L2/P1/
 
 ## 執行與預覽 (How to Run)
 
-1. **直接開啟**：以瀏覽器雙擊開啟 [index.html](file:///d:/L2/P1/index.html)。
-2. **透過本機伺服器運行**：
+1. **線上即時展示 (Live Demo Page)**：
+   👉 **[https://jua91352.github.io/0916-1/](https://jua91352.github.io/0916-1/)**
+2. **本機直接開啟**：以瀏覽器雙擊開啟 [index.html](file:///d:/L2/P1/index.html)。
+3. **透過本機伺服器運行**：
    ```bash
    python -m http.server 8080
    ```
